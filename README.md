@@ -1,6 +1,7 @@
 # 3D-Scan-Guide-CR-scan-Reptor-
 
 1. PC Anforderungen
+2. CR Scan Software 
 
 ## 1. PC Anforderungen:
 
@@ -33,3 +34,10 @@ Prozessor: Intel Core i5-Gen8 oder höher
 RAM: 8 GB oder mehr
 
 macOS Version: 10.15.7 (Catalina, Big Sur, Monterey, Ventura) oder höher
+
+## 2. CR Scan Software 
+
+Hier ist die neuste version von CR Scan zu finden:
+
+https://www.creality.com/pages/download-cr-scan-raptor
+
