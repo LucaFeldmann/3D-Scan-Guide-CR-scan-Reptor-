@@ -1,7 +1,8 @@
 # 3D-Scan-Guide-CR-scan-Reptor-
 
 1. PC Anforderungen
-2. CR Scan Software 
+2. CR Scan Software
+3. Kalibrierung/ erste Schritte 
 
 ## 1. PC Anforderungen:
 
@@ -41,3 +42,21 @@ Hier ist die neuste version von CR Scan zu finden:
 
 https://www.creality.com/pages/download-cr-scan-raptor
 
+## 3. Kalibrierung/ erste Schritte 
+
+### Wann sollte ich den Sacnner Kalibrieren ?
+
+- Bei Umgebungsveränderungen:
+  
+  Bei erster benutzung an einem neuen Ort, Temperaturschwankungen (um mehr als 10 °C), Änderungen der Luftfeuchtigkeit oder Beleuchtung kann die Leistung des Scanners beeinträchtigt werden wenn dieser nicht neu kalibriert wird.
+
+- Bei Vibrationen oder Schlägen:
+
+  Starke vibratione oder Schläge sollten gruntsätzlich vermiden werden und können die Präzision negativ beeinflussen. Im transport sind diese jedoch offtmals unvermeidbar weshalt eine anschliesende Kalibrierung empfohlen wird.
+
+- Nach Software Updates: 
+
+- Bei aufälligen fehlern / Wartung:
+  
+   Nach einiger Zeit sollte eine Neue kalibrierung stadfinden auch wenn keiner der zuvor angesprochen punkte erfüllt ist dies sollte auch vorgenommen werden wenn starke Qalitäts eibusen zu erkennen sind.
+  
