@@ -44,7 +44,7 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 ## 3. Kalibrierung/ erste Schritte 
 
-### Wann sollte ich den Sacnner Kalibrieren ?
+### Wann sollte ich den Scanner Kalibrieren ?
 
 - Bei Umgebungsveränderungen:
   
@@ -59,4 +59,16 @@ https://www.creality.com/pages/download-cr-scan-raptor
 - Bei aufälligen fehlern / Wartung:
   
    Nach einiger Zeit sollte eine Neue kalibrierung stadfinden auch wenn keiner der zuvor angesprochen punkte erfüllt ist dies sollte auch vorgenommen werden wenn starke Qalitäts eibusen zu erkennen sind.
-  
+
+
+### Erste schritte und Wie kalibriere ich den Scanner ?
+
+- Der Scanner wird über die beiligenden Kabel mit dem Pc und der externen stromversorgung verbunden ( USB 3 empfohlen um stabiele verbindung zu garantieren)
+
+- Kalibrierungs Board auf schäden und sauberkeit prüfen beides kann die Präzision des Scanners negativ beeinflussen
+
+- Die kalibrierungs funktion findet sich unter dem am oberen bildschirm rand angezeigten reite Divice. Sobald sie diese Starten werden sie mittels schaubilder durch den Kaliebrierungs prozess geführt
+
+- Tipp: Konzentrieren sie sich mehr auf den Bildschirm als auf das brett und das eigentliche geräht. Vorallem die grünen Kreise auf den bildschirm sind wichtig da diese anzeigen wie gut ihre ausrichtung ist.
+
+- Je höher die Punktzahl, desto besser die Genauigkeit. Eine Punktzahl von über 90 wird angestrebt um exakte Ergebnisse zu gewährleisten.
