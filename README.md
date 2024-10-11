@@ -101,7 +101,6 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 - In der Nachbereitung sind Störungen oder Fehlscanns beheb bar aber es sollte möglichst darauf geachtet werden diese von beginn an zu vermeiden da die Nachberarbeitung meist Zeit intensiv ist und die Prazison des models stark darunter leiden kann.
 
-## Scannen 
 
 ### Belichtung 
 
