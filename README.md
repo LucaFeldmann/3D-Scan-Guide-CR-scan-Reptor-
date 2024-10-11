@@ -46,17 +46,17 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 ### Wann sollte ich den Scanner Kalibrieren ?
 
-#### Bei Umgebungsveränderungen:
+#### - Bei Umgebungsveränderungen:
   
   Bei erster benutzung an einem neuen Ort, Temperaturschwankungen (um mehr als 10 °C), Änderungen der Luftfeuchtigkeit oder Beleuchtung kann die Leistung des Scanners beeinträchtigt werden wenn dieser nicht neu kalibriert wird.
 
-#### Bei Vibrationen oder Schlägen:
+#### - Bei Vibrationen oder Schlägen:
 
   Starke vibratione oder Schläge sollten gruntsätzlich vermiden werden und können die Präzision negativ beeinflussen. Im transport sind diese jedoch offtmals unvermeidbar weshalt eine anschliesende Kalibrierung empfohlen wird.
 
-#### Nach Software Updates: 
+#### - Nach Software Updates: 
 
-#### Bei aufälligen fehlern / Wartung:
+#### - Bei aufälligen fehlern / Wartung:
   
    Nach einiger Zeit sollte eine Neue kalibrierung stadfinden auch wenn keiner der zuvor angesprochen punkte erfüllt ist dies sollte auch vorgenommen werden wenn starke Qalitäts eibusen zu erkennen sind.
 
