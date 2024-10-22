@@ -131,6 +131,8 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 - Für Ober- und Unterseiten scans empfhilt sich das zu scannende objdekt auf etwas zustellen das eine kleiner Grundfläche besitzt so ensteht ein spalt zwischen Bauteil und Tisch welches die Entfehrnung des tisches sehr einfach macht. Da die Automatische Entfehrnung der Tisches zum Zeitpunkt der Erstellund dieses Dokumentes nur im Infrarotmodus Funktioniert.
 
+- Zuden ist zu bedenken das mit jeden Nachbearbeitungsschritt immer Präzison verlohren geht.
+  
 #### Creality scann 
 
 - Lasso / Pinsel hiermit können bereiche makiert werden welche enfehrnt oder erhalten werden sollen
@@ -139,7 +141,21 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 - Mesh Setting hier wird die Punktwollke in ein Mesh umgewandelt, hierbei kann eingestellt werden aus wievielen dreiecken das Model bestehen soll dies beeinflusst stark die Weiter verwendung der bauteils da Modelle mit sehr vielen Flächen sehr viel rechenleistung benötigen. Fusion 360 will für die meisten operationen nicht mehr als 10 000.
 
+#### Instant Meshes 
+
+- Target vertex Count: Hier können wieder die Anzahl der flächen eingestellt werden
+- Orientation Field / Position Field : Nehmen anpassungen an der Gitterstruktur vor. Durch welche das bauteil nicht durch dreiecke sonder Vierecke dargestellt wird.
+
++ Durch das Andere erscheinungs bild ist der Scann in Programmen wie Fusion 360 meist besser zu erkennen und Boulsche operationen sehen sauberer aus.
+
+#### Meshmixer 
+
+- Analysis: Hier können Scanns auf größse geprüft werden und durch das Feature Inspector löcher werlche im Scann auftretten automatich gefüllt werden um ein abgeschlossenes Modell zu erzeugen.
+
+- Sculpt: dieses Feature eignet sich perfekt um Liniern artefakte oder oberflächen auszubessern. Wichtig ist nur zu beachten sehr vorsichtig mit diesem Feature um zugehn da dies die Präzision wirklich stark belasten kann (weniger ist mehr).
+
 ####
+  
 
 
   
