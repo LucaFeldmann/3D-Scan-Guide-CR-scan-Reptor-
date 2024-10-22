@@ -148,13 +148,21 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 + Durch das Andere erscheinungs bild ist der Scann in Programmen wie Fusion 360 meist besser zu erkennen und Boulsche operationen sehen sauberer aus.
 
+- Download: https://github.com/wjakob/instant-meshes   ( Anmerkung: Instant Meshes wird nicht weiter entwickelt)
+
+  ![image](https://github.com/user-attachments/assets/64918cb8-f604-4126-bc20-f84c12403246)
+
 #### Meshmixer 
 
 - Analysis: Hier können Scanns auf größse geprüft werden und durch das Feature Inspector löcher werlche im Scann auftretten automatich gefüllt werden um ein abgeschlossenes Modell zu erzeugen.
 
 - Sculpt: dieses Feature eignet sich perfekt um Liniern artefakte oder oberflächen auszubessern. Wichtig ist nur zu beachten sehr vorsichtig mit diesem Feature um zugehn da dies die Präzision wirklich stark belasten kann (weniger ist mehr).
 
-####
+- Download: https://meshmixer.com/download.html
+![image](https://github.com/user-attachments/assets/42948e48-080e-412e-838e-dfce3a14a0e7)
+
+#### Fusion 360 
+
   
 
 
