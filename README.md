@@ -115,3 +115,34 @@ https://www.creality.com/pages/download-cr-scan-raptor
 - Der Passende abstand wird seitlich durch eine Farbige Skala dargestellt und gibt informationen darüber ob man sich zu nah oder Zu weit weg vom objekt befindet
 
 
+### Scanns Verbinden / Ober und unterseite eines Objekts zusammen Führen
+
+- Hierzu muss der Zweite Scann aus dem Bearbeitungs bereich de dazugehörigen Ersten Scanns gestartet werden
+
+  ![image](https://github.com/user-attachments/assets/de7d8167-bfd8-4c82-b2bc-70f6a398a29c)
+
+- Die zusammen Führung kann Manuel oder Automatisch durchgeführt werden. Im manuellen modus werden gleichfarbige Kugeln auf den jeweils gleichen überlappenden Stellen der beiden Scanns plazieret.
+  
+## Nachbearbeitung 
+
+### Nachbearbeitung vereinfachen
+
+- Grundsätzlich sollte darauf geachtet werden das die zu enfehrnenden Bereiche möglichst minimal und Simpel gehalten werden. Z.B ist ein facher Tisch leichter zu enfehnen als Komplexe geometrien weshalb sich im Scannbereich nur die benötigten gegenstände befinden sollten.
+
+- Für Ober- und Unterseiten scans empfhilt sich das zu scannende objdekt auf etwas zustellen das eine kleiner Grundfläche besitzt so ensteht ein spalt zwischen Bauteil und Tisch welches die Entfehrnung des tisches sehr einfach macht. Da die Automatische Entfehrnung der Tisches zum Zeitpunkt der Erstellund dieses Dokumentes nur im Infrarotmodus Funktioniert.
+
+#### Creality scann 
+
+- Lasso / Pinsel hiermit können bereiche makiert werden welche enfehrnt oder erhalten werden sollen
+
+- Optimization Setting hier würd über sie sensiebelität automatich Punkte enfehrnt welche von der Punktwollte zu stark abweichen.
+
+- Mesh Setting hier wird die Punktwollke in ein Mesh umgewandelt, hierbei kann eingestellt werden aus wievielen dreiecken das Model bestehen soll dies beeinflusst stark die Weiter verwendung der bauteils da Modelle mit sehr vielen Flächen sehr viel rechenleistung benötigen. Fusion 360 will für die meisten operationen nicht mehr als 10 000.
+
+####
+
+
+  
+
+
+
