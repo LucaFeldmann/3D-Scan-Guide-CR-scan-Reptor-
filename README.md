@@ -170,11 +170,11 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 Typen :  
 
-         - Toleran (Fächen werden zu einer fläche zusammengeführt ,wenn diese innerhalb der zuvor festgelgten winkel Toleranz zu einander stehen.)
+- Toleran (Fächen werden zu einer fläche zusammengeführt ,wenn diese innerhalb der zuvor festgelgten winkel Toleranz zu einander stehen.)
+
+- Proportion  (Die Flächen werden Proportional zu Ursprungsverteilung reduziert )
          
-         - Proportion  (Die Flächen werden Proportional zu Ursprungsverteilung reduziert )
-         
-         - Flächenanzahl (reduziert Flächen auf bestimmte Anzahl)
+- Flächenanzahl (reduziert Flächen auf bestimmte Anzahl)
 
 Proportion und FLächenanzahl können entweder Adaptiv (Anzahl der neuen Flächen, in einem Bereich, hängt von detailgrad der Ursprungsmodells ab) oder Einheitlich ausgeführt werden 
 
