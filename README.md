@@ -163,10 +163,28 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 #### Fusion 360 
 
-  
+-Unter dem Reiter Netz am oberen Bildschirmrand finden sich einige nützliche Featurs zur weiteren bearbeitung und vorbereitung zu weiteren benutzung in Fusion 360  
+
+##### Reduzieren : 
+ ist ein Feature zur reduzierung der Anzahl an fächen aus welchen das Modell besteht. Hier stehen dem nutzer einige verschidene Möglichkeiten zur verfühgung.
+
+Typen :  - Toleran (Fächen werden zu einer fläche zusammengeführt ,wenn diese innerhalb der zuvor festgelgten winkel Toleranz zu einander stehen.)
+         - Proportion  (Die Flächen werden Proportional zu Ursprungsverteilung reduziert )
+         - Flächenanzahl (reduziert Flächen auf bestimmte Anzahl)
+
+Proportion und FLächenanzahl können entweder Adaptiv (Anzahl der neuen Flächen, in einem Bereich, hängt von detailgrad der Ursprungsmodells ab) oder Einheitlich ausgeführt werden 
+
+![image](https://github.com/user-attachments/assets/4b85f753-7dc0-4244-8ded-75dd0b3309a3)
 
 
-  
+##### Netz Kovertieren 
+Vor diesem Prozess sollte immer gespeichert werden da es durchaus je nach Methode zu abstürzen der Programmes kommen kann!
 
+-Facettiert: Hiermit kommt Fusion 360 im fall eines Scanns ambesten klar. Dieses Feature eignet sich zu erstellen eines Referenzmodels 
+-Prismatisch /Organisch: hierbei wird das Netz Modell versucht in ein Model aus Ganzen geometrien zu überführen ( z.B. Zylinder, Würfel)
+ dies ist mit einem 3d Scann als basis fast unmöglich und könnte Höchstensbei sehr einfachen geometrien genutz werden.
+ Hingegen bei Netzmodellen welche zuvor in CAD entsanden sind (wie die Meisten Thingiversmodelle funktionieret diese sehr gut).
+
+![image](https://github.com/user-attachments/assets/1d57320f-1d1e-4b9e-a6ea-c4ae6ea013ad)
 
 
