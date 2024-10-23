@@ -168,7 +168,9 @@ https://www.creality.com/pages/download-cr-scan-raptor
 ##### Reduzieren : 
  ist ein Feature zur reduzierung der Anzahl an fächen aus welchen das Modell besteht. Hier stehen dem nutzer einige verschidene Möglichkeiten zur verfühgung.
 
-Typen :  - Toleran (Fächen werden zu einer fläche zusammengeführt ,wenn diese innerhalb der zuvor festgelgten winkel Toleranz zu einander stehen.)
+Typen :  
+
+         - Toleran (Fächen werden zu einer fläche zusammengeführt ,wenn diese innerhalb der zuvor festgelgten winkel Toleranz zu einander stehen.)
          
          - Proportion  (Die Flächen werden Proportional zu Ursprungsverteilung reduziert )
          
