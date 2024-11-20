@@ -48,11 +48,11 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 #### - Bei Umgebungsveränderungen:
   
-  Bei erster benutzung an einem neuen Ort, Temperaturschwankungen (um mehr als 10 °C), Änderungen der Luftfeuchtigkeit oder Beleuchtung kann die Leistung des Scanners beeinträchtigt werden wenn dieser nicht neu kalibriert wird.
+  Bei erster Benutzung an einem neuen Ort, bei Temperaturschwankungen (um mehr als 10 °C), Änderungen der Luftfeuchtigkeit oder Beleuchtung kann die Leistung des Scanners beeinträchtigt werden, wenn dieser nicht neu kalibriert wird.
 
 #### - Bei Vibrationen oder Schlägen:
 
-  Starke vibratione oder Schläge sollten gruntsätzlich vermiden werden und können die Präzision negativ beeinflussen. Im transport sind diese jedoch offtmals unvermeidbar weshalt eine anschliesende Kalibrierung empfohlen wird.
+  Starke Vibratione oder Schläge sollten grundsätzlich vermieden werden und können die Präzision negativ beeinflussen. Im Transport sind diese jedoch oftmals unvermeidbar, weshalb eine anschließende Kalibrierung empfohlen wird.
 
 #### - Nach Software Updates: 
 
@@ -63,15 +63,15 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 ### Erste schritte und Wie kalibriere ich den Scanner ?
 
-- Der Scanner wird über die beiligenden Kabel mit dem Pc und der externen stromversorgung verbunden ( USB 3 empfohlen um stabiele verbindung zu garantieren)
+- Der Scanner wird über die beiliegenden Kabel mit dem Pc und der externen Stromversorgung verbunden ( USB 3 empfohlen um stabiele Verbindung zu garantieren)
 
-- Kalibrierungs Board auf schäden und sauberkeit prüfen beides kann die Präzision des Scanners negativ beeinflussen
+- Kalibrierungs-Board auf Schäden und Sauberkeit prüfen, beides kann die Präzision des Scanners negativ beeinflussen
 
-- Die kalibrierungs funktion findet sich unter dem am oberen bildschirm rand angezeigten reite Divice. Sobald sie diese Starten werden sie mittels schaubilder durch den Kaliebrierungs prozess geführt
+- Die Kalibrierungsfunktion findet sich unter dem am oberen Bildschirmrand angezeigten Reiter Device. Sobald sie diese Starten werden sie mittels Schaubildern durch den Kalibrierungsprozess geführt
 
-- Tipp: Konzentrieren sie sich mehr auf den Bildschirm als auf das brett und das eigentliche geräht. Vorallem die grünen Kreise auf den bildschirm sind wichtig da diese anzeigen wie gut ihre ausrichtung ist.
+- Tipp: Konzentrieren Sie sich mehr auf den Bildschirm als auf das Brett und das eigentliche Gerät. Vor allem die grünen Kreise auf den Bildschirm sind wichtig da diese anzeigen, wie gut Ihre Ausrichtung ist.
 
-- Je höher die Punktzahl, desto besser die Genauigkeit. Eine Punktzahl von über 90 wird angestrebt um exakte Ergebnisse zu gewährleisten.
+- Je höher die Punktzahl, desto besser die Genauigkeit. Eine Punktzahl von über 90 wird angestrebt, um exakte Ergebnisse zu gewährleisten.
 
 ## Scannen
 
@@ -81,9 +81,9 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 - Einsatzgebiete: Kleinteilige Objekte (z.B. Münzen, Bolzen) oder Objekte mit komplexen Geometrien
   
-- Merkmale: Hohe Genauigkeit bis zu 0,02 mm, erfordert Marker für scanning prozess 
+- Merkmale: Hohe Genauigkeit bis zu 0,02 mm, erfordert Marker für den Scanning-Prozess 
   
-- Vorgehen: Für kleine Objekte können die Marker auf dem Scantisch platziert werden (z.B. beiligende scanning Matte mit Markern) , für größere Objekte sollten die Marker direkt auf der Oberfläche des Objekts angebracht werden
+- Vorgehen: Für kleine Objekte können die Marker auf dem Scantisch platziert werden (z.B. beiliegende Scanning-Matte mit Markern), für größere Objekte sollten die Marker direkt auf der Oberfläche des Objekts angebracht werden
 
 #### Infrarot Scanning 
 
@@ -95,58 +95,58 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 ### Scanning einstellungen
 
-- Diese sind je nach zu Scannenden Bauteil einzustellen und grundsätzlich sehr intuitiv. Zudem bietet die Software Viedeos und Voreinstellungen an die diesen Prozess weiter vereinfachen.
+- Diese sind je nach zu Scannenden Bauteil einzustellen und grundsätzlich sehr intuitiv. Zudem bietet die Software Viedeos und Voreinstellungen an, die diesen Prozess weiter vereinfachen.
 
-- Bei zu Starken Artefakten ( linien oder ähnlich Störungen welche durch den sacanning Prozess selbst entstehen) kann es hilfreich sein die Auflösung herunter zu fahren. Bei einer auflösugn von 0.1 Sollten sich diese bereits sehr kontrolierbar sein.
+- Bei zu starken Artefakten (Linien oder ähnlich Störungen, welche durch den Scanning-Prozess selbst entstehen) kann es hilfreich sein die Auflösung herunter zu fahren. Bei einer Auflösugn von 0.1 Sollten sich diese bereits sehr kontrolierbar sein.
 
-- In der Nachbereitung sind Störungen oder Fehlscanns beheb bar aber es sollte möglichst darauf geachtet werden diese von beginn an zu vermeiden da die Nachberarbeitung meist Zeit intensiv ist und die Prazison des models stark darunter leiden kann.
+- In der Nachbereitung sind Störungen oder Fehlscanns beheb bar aber es sollte möglichst darauf geachtet werden, diese von beginn an zu vermeiden da die Nachberarbeitung meist eitintensiv ist und die Präzision des Modells stark darunter leiden kann.
 
 
 ### Belichtung 
 
-- Die Belichtung wird auf einem Infrarot bild an der Seite des scanning interfaces angezeigt. Rot steht hierbei für Überbelichtet und Blau für unterbelichtet.
+- Die Belichtung wird auf einem Infrarotbild an der Seite des Scanning-Interfaces angezeigt. Rot steht hierbei für Überbelichtet, und Blau für unterbelichtet.
 
-- Für Blaulicht Sacnns sollte darauf geachtet werden das Marker und linien auf dem Infrarotbild gut zu erkennen sind. Die Blaulicht linien dürfen auch rot erscheinen jedoch der rest des bildes sollte sich weiterhin im bereich von Graustufen befinden.
+- Für Blaulicht Scans sollte darauf geachtet werden, dass Marker und Linien auf dem Infrarotbild gut zu erkennen sind. Die Blaulicht-Linien dürfen auch rot erscheinen, jedoch der Rest des Bildes sollte sich weiterhin im bereich von Graustufen befinden.
 
-- Diese bezieht sich auf den zu sacnnenden Bereich und Hilfs Marker nicht auf bereiche welche nicht gescannt werden sollen diese sind zu vernachlässigen.
+- Dies bezieht sich auf den zu sacnnenden Bereich und Hilfsmarker nicht auf Bereiche, welche nicht gescannt werden sollen diese sind zu vernachlässigen.
 
 ### Abstand 
 
-- Der Passende abstand wird seitlich durch eine Farbige Skala dargestellt und gibt informationen darüber ob man sich zu nah oder Zu weit weg vom objekt befindet
+- Der passende Abstand wird seitlich durch eine farbige Skala dargestellt und gibt informationen darüber, ob man sich zu nah oder zu weit weg vom objekt befindet
 
 
 ### Scanns Verbinden / Ober und unterseite eines Objekts zusammen Führen
 
-- Hierzu muss der Zweite Scann aus dem Bearbeitungs bereich de dazugehörigen Ersten Scanns gestartet werden
+- Hierzu muss der zweite Scan aus dem Bearbeitungsbereich de dazugehörigen Ersten Scanns gestartet werden
 
   ![image](https://github.com/user-attachments/assets/de7d8167-bfd8-4c82-b2bc-70f6a398a29c)
 
-- Die zusammen Führung kann Manuel oder Automatisch durchgeführt werden. Im manuellen modus werden gleichfarbige Kugeln auf den jeweils gleichen überlappenden Stellen der beiden Scanns plazieret.
+- Die Zusammenführung kann manuell oder Automatisch durchgeführt werden. Im manuellen Modus werden gleichfarbige Kugeln auf den jeweils gleichen überlappenden Stellen der beiden Scanns platziert.
   
 ## Nachbearbeitung 
 
 ### Nachbearbeitung vereinfachen
 
-- Grundsätzlich sollte darauf geachtet werden das die zu enfehrnenden Bereiche möglichst minimal und Simpel gehalten werden. Z.B ist ein facher Tisch leichter zu enfehnen als Komplexe geometrien weshalb sich im Scannbereich nur die benötigten gegenstände befinden sollten.
+- Grundsätzlich sollte darauf geachtet werden, dass die zu entfernenden Bereiche möglichst minimal und simpel gehalten werden. Z.B ist ein facher Tisch leichter zu enfehnen als komplexe geometrien weshalb sich im Scan-Bereich nur die benötigten Gegenstände befinden sollten.
 
-- Für Ober- und Unterseiten scans empfhilt sich das zu scannende objdekt auf etwas zustellen das eine kleiner Grundfläche besitzt so ensteht ein spalt zwischen Bauteil und Tisch welches die Entfehrnung des tisches sehr einfach macht. Da die Automatische Entfehrnung der Tisches zum Zeitpunkt der Erstellund dieses Dokumentes nur im Infrarotmodus Funktioniert.
+- Für Ober- und Unterseiten scans empfhilt sich das zu scannende Objekt auf etwas zu stellen das eine kleiner Grundfläche besitzt so ensteht ein spalt zwischen Bauteil und Tisch welcher die Entfernung des tisches sehr einfach macht. Da die Automatische Entfehrnung der Tisches zum Zeitpunkt der Erstellung dieses Dokuments nur im Infrarotmodus Funktioniert.
 
-- Zuden ist zu bedenken das mit jeden Nachbearbeitungsschritt immer Präzison verlohren geht.
+- Zudem ist zu bedenken das mit jeden Nachbearbeitungsschritt immer Präzision verlohren geht.
   
 #### Creality scann 
 
-- Lasso / Pinsel hiermit können bereiche makiert werden welche enfehrnt oder erhalten werden sollen
+- Lasso / Pinsel hiermit können Bereiche markiert werden welche entfernt oder erhalten werden sollen
 
-- Optimization Setting hier würd über sie sensiebelität automatich Punkte enfehrnt welche von der Punktwollte zu stark abweichen.
+- Optimization Setting: Hier wird über die Sensibilität automatisch Punkte entfernt welche von der Punktwolke zu stark abweichen.
 
-- Mesh Setting hier wird die Punktwollke in ein Mesh umgewandelt, hierbei kann eingestellt werden aus wievielen dreiecken das Model bestehen soll dies beeinflusst stark die Weiter verwendung der bauteils da Modelle mit sehr vielen Flächen sehr viel rechenleistung benötigen. Fusion 360 will für die meisten operationen nicht mehr als 10 000.
+- Mesh Setting hier wird die Punktwollke in ein Mesh umgewandelt, hierbei kann eingestellt werden aus wie vielen Dreiecken das Model bestehen soll dies beeinflusst stark die Weiterverwendung der bauteils da Modelle mit sehr vielen Flächen sehr viel rechenleistung benötigen. Fusion 360 möchte für die meisten Operationen nicht mehr als 10 000.
 
 #### Instant Meshes 
 
-- Target vertex Count: Hier können wieder die Anzahl der flächen eingestellt werden
-- Orientation Field / Position Field : Nehmen anpassungen an der Gitterstruktur vor. Durch welche das bauteil nicht durch dreiecke sonder Vierecke dargestellt wird.
+- Target Vertex Count: Hier können wieder die Anzahl der Flächen eingestellt werden
+- Orientation Field / Position Field : Nehmen anpassungen an der Gitterstruktur vor. Durch welche das Bauteil nicht durch Dreiecke, sondern Vierecke dargestellt wird.
 
-+ Durch das Andere erscheinungs bild ist der Scann in Programmen wie Fusion 360 meist besser zu erkennen und Boulsche operationen sehen sauberer aus.
++ Durch das Andere erscheinungs bild ist der Scann in Programmen wie Fusion 360 meist besser zu erkennen und Boolsche operationen sehen sauberer aus.
 
 - Download: https://github.com/wjakob/instant-meshes   ( Anmerkung: Instant Meshes wird nicht weiter entwickelt)
 
@@ -154,16 +154,16 @@ https://www.creality.com/pages/download-cr-scan-raptor
 
 #### Meshmixer 
 
-- Analysis: Hier können Scanns auf größse geprüft werden und durch das Feature Inspector löcher werlche im Scann auftretten automatich gefüllt werden um ein abgeschlossenes Modell zu erzeugen.
+- Analysis: Hier können Scanns auf Größse geprüft werden und durch das Feature Inspector löcher welche im Scan auftreten, automatisch gefüllt werden um ein abgeschlossenes Modell zu erzeugen.
 
-- Sculpt: dieses Feature eignet sich perfekt um Liniern artefakte oder oberflächen auszubessern. Wichtig ist nur zu beachten sehr vorsichtig mit diesem Feature um zugehn da dies die Präzision wirklich stark belasten kann (weniger ist mehr).
+- Sculpt: dieses Feature eignet sich perfekt um Linienartefakte oder oberflächen auszubessern. Wichtig ist nur zu beachten sehr vorsichtig mit diesem Feature umzugehen da dies die Präzision wirklich stark belasten kann (weniger ist mehr).
 
 - Download: https://meshmixer.com/download.html
 ![image](https://github.com/user-attachments/assets/42948e48-080e-412e-838e-dfce3a14a0e7)
 
 #### Fusion 360 
 
--Unter dem Reiter Netz am oberen Bildschirmrand finden sich einige nützliche Featurs zur weiteren bearbeitung und vorbereitung zu weiteren benutzung in Fusion 360  
+-Unter dem Reiter Netz am oberen Bildschirmrand finden sich einige nützliche Features zur weiteren Bearbeitung und Vorbereitung zur weiteren Benutzung in Fusion 360  
 
 ##### Reduzieren : 
  ist ein Feature zur reduzierung der Anzahl an fächen aus welchen das Modell besteht. Hier stehen dem nutzer einige verschidene Möglichkeiten zur verfühgung.
@@ -176,19 +176,19 @@ Typen :
          
 - Flächenanzahl (reduziert Flächen auf bestimmte Anzahl)
 
-Proportion und FLächenanzahl können entweder Adaptiv (Anzahl der neuen Flächen, in einem Bereich, hängt von detailgrad der Ursprungsmodells ab) oder Einheitlich ausgeführt werden 
+Proportion und Flächenanzahl können entweder Adaptiv (Anzahl der neuen Flächen, in einem Bereich, hängt von detailgrad der Ursprungsmodells ab) oder Einheitlich ausgeführt werden 
 
 ![image](https://github.com/user-attachments/assets/4b85f753-7dc0-4244-8ded-75dd0b3309a3)
 
 
 ##### Netz Kovertieren 
-Vor diesem Prozess sollte immer gespeichert werden da es durchaus je nach Methode zu abstürzen der Programmes kommen kann!
+Vor diesem Prozess sollte immer gespeichert werden da es durchaus je nach Methode zu Abstürzen des Programms kommen kann!
 
--Facettiert: Hiermit kommt Fusion 360 im fall eines Scanns ambesten klar. Dieses Feature eignet sich zu erstellen eines Referenzmodels 
+-Facettiert: Hiermit kommt Fusion 360 im fall eines Scanns am besten klar. Dieses Feature eignet sich zu erstellen eines Referenzmodels 
 
 -Prismatisch /Organisch: hierbei wird das Netz Modell versucht in ein Model aus Ganzen geometrien zu überführen ( z.B. Zylinder, Würfel)
- dies ist mit einem 3d Scann als basis fast unmöglich und könnte Höchstensbei sehr einfachen geometrien genutz werden.
- Hingegen bei Netzmodellen welche zuvor in CAD entsanden sind (wie die Meisten Thingiversmodelle funktionieret diese sehr gut).
+Dies ist mit einem 3D-Scan als basis fast unmöglich und könnte Höchstensbei sehr einfachen geometrien genutz werden.
+ Hingegen bei Netzmodellen welche zuvor in CAD entsanden sind (wie die Meisten Thingiversmodelle funktioniert diese sehr gut).
 
 ![image](https://github.com/user-attachments/assets/1d57320f-1d1e-4b9e-a6ea-c4ae6ea013ad)
 
