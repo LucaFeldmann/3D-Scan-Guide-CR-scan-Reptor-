@@ -85,6 +85,7 @@ https://www.creality.com/pages/download-cr-scan-raptor
   
 - Vorgehen: Für kleine Objekte können die Marker auf dem Scantisch platziert werden (z.B. beiliegende Scanning-Matte mit Markern), für größere Objekte sollten die Marker direkt auf der Oberfläche des Objekts angebracht werden
 
+- Tipp: Grade bei komplexen Geometrien oder objekten bei den es schwer ist Marker aufzubrinngen empfhielt es sich die beiligende Matte mit markern unterzulegen oder in die Nähe dies bitet dem Scanner viel mehr anhaltspunkte.
 #### Infrarot Scanning 
 
 - Einsatzgebiete: Größere Objekte wie Statuen oder menschliche Körper (150-2000 mm)
